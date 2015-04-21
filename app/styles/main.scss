@@ -118,11 +118,7 @@ section{
   height:100%;
   left:0;
   &:nth-child(even){
-    filter: blur(5px);
-    height: auto;
-    width:100%;
-    left: 0;
-    right: 0;
+    background-color:$brand-primary;
   }
 
   &.s1{

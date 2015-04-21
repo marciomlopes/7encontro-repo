@@ -27198,12 +27198,7 @@ section {
   height: 100%;
   left: 0; }
   section:nth-child(even) {
-    -webkit-filter: blur(5px);
-            filter: blur(5px);
-    height: auto;
-    width: 100%;
-    left: 0;
-    right: 0; }
+    background-color: #428bca; }
   section.s1 {
     top: 0%; }
   section.s2 {
